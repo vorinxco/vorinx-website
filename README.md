@@ -25,6 +25,9 @@ Data protection and recovery planning to help businesses stay resilient.
 💡 **IT Consulting**  
 Reliable technology guidance, support, and modernization planning.
 
+🖥️ **Managed IT Services**  
+Ongoing technology support, monitoring, and maintenance for businesses.
+
 ---
 
 ## 🔹 About VORINX
@@ -35,13 +38,14 @@ Our mission is to help organizations build stronger digital foundations through 
 
 ---
 
-## 🔷 Technologies
+## 🔷 Focus Areas
 
 🛡️ **Security Solutions**  
 ☁️ **Cloud Infrastructure**  
 🌐 **Network Protection**  
 🔐 **Data Protection**  
-⚙️ **IT Optimization**
+⚙️ **IT Optimization**  
+🖥️ **Managed Technology Support**
 
 ---
 
@@ -56,3 +60,4 @@ Our mission is to help organizations build stronger digital foundations through 
 ---
 
 © VORINX LLC
+
