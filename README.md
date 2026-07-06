@@ -42,10 +42,10 @@ Our mission is to help organizations build stronger digital foundations through 
 
 🛡️ **Security Solutions**  
 ☁️ **Cloud Infrastructure**  
-🌐 **Network Protection**  
+🌐 **Network Support & Security**  
 🔐 **Data Protection**  
 ⚙️ **IT Optimization**  
-🖥️ **Managed Technology Support**
+💡 **IT Support & Consulting**
 
 ---
 
