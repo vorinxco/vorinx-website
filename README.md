@@ -22,7 +22,7 @@ Secure network setup, troubleshooting, support, and improvement.
 🔄 **Backup & Recovery**  
 Data protection and recovery planning to help businesses stay resilient.
 
-💻 **IT Consulting**  
+💡 **IT Consulting**  
 Reliable technology guidance, support, and modernization planning.
 
 ---
@@ -32,6 +32,16 @@ Reliable technology guidance, support, and modernization planning.
 VORINX LLC provides cybersecurity and IT solutions designed to help businesses protect, optimize, and modernize their technology.
 
 Our mission is to help organizations build stronger digital foundations through secure systems, reliable support, and future-ready technology.
+
+---
+
+## 🔷 Technologies
+
+🛡️ **Security Solutions**  
+☁️ **Cloud Infrastructure**  
+🌐 **Network Protection**  
+🔐 **Data Protection**  
+⚙️ **IT Optimization**
 
 ---
 
